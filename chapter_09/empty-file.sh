@@ -11,7 +11,8 @@
 # Grab the first argument.
 file_name=$1
 
-# If the file exists, overwrite it with the always empty file /dev/null; otherwise, touch it.
+# If the file exists, overwrite it with the always empty file 
+# /dev/null; otherwise, touch it.
 if [[ -f ${file_name} ]]; then
   cp /dev/null ${file_name}
 else
