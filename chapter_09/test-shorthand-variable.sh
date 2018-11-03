@@ -5,7 +5,7 @@
 # Version: v1.0.0
 # Date: 2018-09-29
 # Description: Write faster tests with the shorthand, now even better with a CONSTANT!
-# Usage: ./test-shorthand.sh
+# Usage: ./test-shorthand-variable.sh
 #####################################
 
 DIRECTORY=/tmp/
