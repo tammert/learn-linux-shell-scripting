@@ -5,7 +5,7 @@
 # Version: v1.0.0
 # Date: 2018-09-30
 # Description: Use return codes to stop script flow.
-# Usage: ./if-then-exit-rc.sh
+# Usage: ./if-then-exit-rc-improved.sh
 #####################################
 
 # Create a new top-level directory.
