@@ -8,7 +8,7 @@
 # Usage: ./password-generator.sh <length>
 #####################################
 
-# Check for the current number of arguments.
+# Check for the correct number of arguments.
 if [[ $# -ne 1 ]]; then
   echo "Wrong number of arguments!"
   echo "Usage: $0 <length>"
